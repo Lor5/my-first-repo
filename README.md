@@ -1,25 +1,29 @@
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+# Lor 
 
-- This is
-- an unordered
-- list
+### Quote 
+Tact is the ability to tell someone to 'go to to hell' in such a way
+that they look forward to the trip -Winston Churchill
 
-1. This is
-2. an ordered
-3. list
+###hobbies 
 
-Here is `some code` in the middle of a sentence.
+My past times and hobbies are:
 
-```
-This is
-a block
-of code
-```
+- Biochemistry and toxicology
+- reading 
+- crocheting 
 
-Here is how you make [a link](https://www.wikipedia.org/).
+###Reading 
+
+My faveorite Books are:
+
+1. Crime and Punishment
+2. No Longer Human 
+3. The Adventures of Sherlock Holmes
+
+###Contact 
+
+The best way to get in touch with me is to not
+ [a link](https://www.wikipedia.org/).
 
 ![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
 
