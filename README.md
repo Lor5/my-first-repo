@@ -1,4 +1,4 @@
-# Lor 
+# Lor5 
 
 ### Quote 
 Tact is the ability to tell someone to 'go to to hell' in such a way
